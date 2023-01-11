@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BaseProject</string>
+    <string name="button">Speech</string>
+    <string name="text">Texto</string>
 </resources>
